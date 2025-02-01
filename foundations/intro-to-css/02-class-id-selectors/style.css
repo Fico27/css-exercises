@@ -1,0 +1,19 @@
+.para{
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu', sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#two{
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
